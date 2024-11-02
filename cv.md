@@ -20,8 +20,10 @@ After graduating from university, I chose the path of a Frontend Developer and n
 
 ## Code examples
 
+```
 def is_inside_range(x, a, b):
-return (a < x and x < b)
+    return (a < x and x < b)
+```
 
 ## Education
 
